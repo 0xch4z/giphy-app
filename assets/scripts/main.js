@@ -1,5 +1,5 @@
 const API_KEY = '2GHWX9XpvxXgO8OUWi1pgsSpVB8SgFx6'
-const BASE_URL = 'http://api.giphy.com/v1/gifs/search'
+const BASE_URL = 'https://api.giphy.com/v1/gifs/search'
 
 const topics = [
   'Curb Your Enthusiasm',
